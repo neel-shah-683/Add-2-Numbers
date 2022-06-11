@@ -1,19 +1,19 @@
 a = input("Enter 1 Number: ")
 b = input("Enter 2 Number: ")
 
-# Adding 2 Numbers
+# Addition of 2 Numbers
 c = int(a) + int(b)
 print("\n Addition = ",c)
 
-# Subtracting 2 Numbers
+# Subtraction of 2 Numbers
 c = int(a) - int(b)
 print("\n Subtraction = ",c)
 
-# Multiplicating 2 Numbers
+# Multiplication 2 Numbers
 c = int(a) * int(b)
 print("\n Multiplication = ",c)
 
-# Dividing 2 Numbers
+# Division of 2 Numbers
 c = int(a) / int(b)
 print("\n Division = ",c)
 
