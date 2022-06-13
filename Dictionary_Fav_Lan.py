@@ -1,5 +1,3 @@
-from re import A
-
 
 myDic = {
 
