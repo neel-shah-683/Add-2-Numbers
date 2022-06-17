@@ -1,0 +1,5 @@
+Python # to Replace some word
+# of Python
+# of JAVA
+# of C
+# of C++
