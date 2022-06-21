@@ -1,4 +1,4 @@
-#  (a + ib) (c + id) = (ac - bd) + i(ad + bc).
+#  Formula for Multiplication of Complex Numbers =  (a + ib) (c + id) = (ac - bd) + i(ad + bc).
 
 class Complex:
     def __init__(self,r,i):
